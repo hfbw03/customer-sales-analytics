@@ -1,0 +1,12 @@
+data/raw/
+data/cleaned/*.db
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+.DS_Store
+Thumbs.db
+~$ase8_Dashboard_Tableau.docx
+Phase8_Dashboard_Tableau.docx
+Project_Blueprint_Customer_Analytics.docx

@@ -1,0 +1,19 @@
+Country,Cancelled_Orders,Normal_Orders,Total_Orders,Cancel_Rate
+Japan,23.0,33.0,56.0,41.07
+Channel Islands,24.0,55.0,79.0,30.38
+Italy,27.0,65.0,92.0,29.35
+Germany,306.0,789.0,1095.0,27.95
+Switzerland,30.0,90.0,120.0,25.0
+EIRE,180.0,567.0,747.0,24.1
+Portugal,29.0,93.0,122.0,23.77
+Denmark,10.0,43.0,53.0,18.87
+Australia,22.0,95.0,117.0,18.8
+Sweden,24.0,104.0,128.0,18.75
+Belgium,34.0,149.0,183.0,18.58
+Spain,34.0,154.0,188.0,18.09
+United Kingdom,7315.0,33541.0,40856.0,17.9
+France,124.0,614.0,738.0,16.8
+Finland,11.0,57.0,68.0,16.18
+Norway,8.0,45.0,53.0,15.09
+Austria,6.0,45.0,51.0,11.76
+Netherlands,21.0,228.0,249.0,8.43

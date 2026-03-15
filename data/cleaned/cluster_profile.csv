@@ -1,0 +1,5 @@
+Cluster,Total_Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Cluster_Label
+0,1973,394.95,1.38,317.08,Inactive
+1,1250,28.3,3.05,857.49,Promising
+2,1196,27.71,19.28,10731.16,High Value
+3,1459,230.07,5.06,1948.5,At Risk
