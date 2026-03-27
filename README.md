@@ -61,11 +61,11 @@ customer-sales-analytics/
 ## Key Findings
 
 - **Champions (22.1%)** menghasilkan rata-rata £9.143 per customer
-- **At Risk segment (10.5%)** adalah prioritas retensi — pernah bertransaksi £4.244 tapi sudah 359 hari tidak aktif
+- **At Risk segment (10.5%)** adalah prioritas retensi - pernah bertransaksi £4.244 tapi sudah 359 hari tidak aktif
 - **Top 21.7% produk** menghasilkan 80% total revenue (Pareto Principle)
-- **Peak season Q4** konsisten di kedua tahun — Oktober & November tertinggi
+- **Peak season Q4** konsisten di kedua tahun - Oktober & November tertinggi
 - **Cancellation rate 18.32%** namun hanya berdampak 8.08% terhadap revenue
-- **Japan (41.1%)** memiliki cancellation rate tertinggi — lebih dari 2x rata-rata
+- **Japan (41.1%)** memiliki cancellation rate tertinggi - lebih dari 2x rata-rata
 
 ## Setup & Instalasi
 ```bash
