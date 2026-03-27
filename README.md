@@ -83,6 +83,9 @@ pip install -r requirements.txt
 # 01 → 02 → 03 → 04 → 05
 ```
 
+## Slide Presentasi
+[Slide untuk proyek dapat diakses di link ini.](https://www.canva.com/design/DAHEGWqurCI/y1wu5YKT5ylNbpC3O2usng/view?utm_content=DAHEGWqurCI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hddf695896b)
+
 ## Dashboard
 
 🔄 Coming soon — Tableau Public
