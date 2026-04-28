@@ -11,9 +11,8 @@ Proyek ini menganalisis data transaksi sebuah UK-based online retail untuk menja
 ## Dataset
 
 - **Sumber**: [Online Retail II — UCI Machine Learning Repository](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
-- **Periode**: Desember 2009 — Desember 2011
+- **Periode**: Desember 2009 - Desember 2011
 - **Ukuran**: 1.067.371 transaksi, 8 kolom
-- Setelah download, simpan file di: `data/raw/online_retail_II.csv`
 
 ## Tech Stack
 
