@@ -88,8 +88,7 @@ pip install -r requirements.txt
 
 ## Dashboard
 
-🔄 Coming soon — Tableau Public
-
+Dashboard interaktif telah berhasil dipublish di Tableau Public, menampilkan hasil analisis Sales Overview dalam satu halaman yang komprehensif. [Dashboard bisa diakses di link ini.](https://public.tableau.com/app/profile/hanz.wewengkang/viz/RetailAnalyticsSalesDashboard/SalesOverviewFloat)
 ---
 
 *Proyek ini dibuat sebagai bagian dari portfolio Data Analytics.*
