@@ -11,9 +11,8 @@ Proyek ini menganalisis data transaksi sebuah UK-based online retail untuk menja
 ## Dataset
 
 - **Sumber**: [Online Retail II — UCI Machine Learning Repository](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
-- **Periode**: Desember 2009 — Desember 2011
+- **Periode**: Desember 2009 - Desember 2011
 - **Ukuran**: 1.067.371 transaksi, 8 kolom
-- Setelah download, simpan file di: `data/raw/online_retail_II.csv`
 
 ## Tech Stack
 
@@ -88,7 +87,8 @@ pip install -r requirements.txt
 
 ## Dashboard
 
-Dashboard interaktif telah berhasil dipublish di Tableau Public, menampilkan hasil analisis Sales Overview dalam satu halaman yang komprehensif. [Dashboard bisa diakses di link ini.](https://public.tableau.com/app/profile/hanz.wewengkang/viz/RetailAnalyticsSalesDashboard/SalesOverviewFloat)
+Dashboard interaktif telah berhasil dipublish di Tableau Public, menampilkan hasil analisis Sales Overview dalam satu halaman yang komprehensif. [Dashboard bisa diakses di link ini.](https://public.tableau.com/app/profile/hanz.wewengkang/viz/RetailAnalyticsSalesDashboard/SalesOverviewFloat) 
+
 ---
 
 *Proyek ini dibuat sebagai bagian dari portfolio Data Analytics.*
